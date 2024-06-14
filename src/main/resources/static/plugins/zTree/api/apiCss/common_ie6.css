@@ -20,4 +20,3 @@ html pre {word-wrap: break-word}
 div.baby_overlay {background-color: #3C6E31;background-image:none;color:#fff;}
 div.baby_overlay .close {filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='apiCss/img/overlay_close_IE6.gif');background-image: none;}
 .baby_overlay_arrow {background-image:url(img/overlay_arrow.gif);}
-.apiDetail button {background-image:url("img/zTreeStandard.gif")}

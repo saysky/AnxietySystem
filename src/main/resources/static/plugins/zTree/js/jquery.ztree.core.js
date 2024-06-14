@@ -1978,4 +1978,3 @@
     var zt = $.fn.zTree,
         $$ = tools.$,
         consts = zt.consts;
-})(jQuery);

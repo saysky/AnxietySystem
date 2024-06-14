@@ -396,4 +396,3 @@
 			_repairParentChkClassWithSelf.apply(view, arguments);
 		}
 	}
-})(jQuery);

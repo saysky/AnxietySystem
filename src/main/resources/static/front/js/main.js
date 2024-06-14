@@ -486,4 +486,3 @@ $('.question-unmark-btn').click(function () {
             }
         }
     });
-});

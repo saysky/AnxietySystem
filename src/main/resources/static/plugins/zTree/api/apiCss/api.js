@@ -594,4 +594,3 @@ var apiContent = {
 			}
 		});
 	}
-}

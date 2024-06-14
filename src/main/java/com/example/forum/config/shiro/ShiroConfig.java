@@ -114,4 +114,3 @@ public class ShiroConfig {
         return new AllowAllCredentialsMatcher();
     }
 
-}

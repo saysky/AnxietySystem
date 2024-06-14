@@ -641,4 +641,3 @@
 		}
 		return html;
 	}
-})(jQuery);

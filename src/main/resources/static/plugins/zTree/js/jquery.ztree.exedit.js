@@ -1192,4 +1192,3 @@
 		}
 		return (!root.curEditNode) && (_uCanDo ? _uCanDo.apply(view, arguments) : true);
 	}
-})(jQuery);
